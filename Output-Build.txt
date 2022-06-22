@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: ClassIntro, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>ClassIntro -> C:\Users\RobN\Desktop\C#\EnginDemirogKamp\KampIntro\ClassIntro\bin\Debug\net5.0\ClassIntro.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
