@@ -23,6 +23,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gun4Odev", "..\CampExamples\DictionaryPratic\Gun4Odev.csproj", "{F94A0F58-2363-4B7C-8DAD-9F72F96CD7DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{19048C9A-E1FF-454F-AD3A-737CA0988AF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{77AFF7AC-1591-4758-A1DD-1B95A03D130D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{F94A0F58-2363-4B7C-8DAD-9F72F96CD7DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F94A0F58-2363-4B7C-8DAD-9F72F96CD7DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F94A0F58-2363-4B7C-8DAD-9F72F96CD7DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19048C9A-E1FF-454F-AD3A-737CA0988AF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19048C9A-E1FF-454F-AD3A-737CA0988AF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19048C9A-E1FF-454F-AD3A-737CA0988AF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19048C9A-E1FF-454F-AD3A-737CA0988AF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77AFF7AC-1591-4758-A1DD-1B95A03D130D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77AFF7AC-1591-4758-A1DD-1B95A03D130D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77AFF7AC-1591-4758-A1DD-1B95A03D130D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77AFF7AC-1591-4758-A1DD-1B95A03D130D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
