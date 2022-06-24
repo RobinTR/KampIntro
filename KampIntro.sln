@@ -23,9 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gun4Odev", "..\CampExamples\DictionaryPratic\Gun4Odev.csproj", "{F94A0F58-2363-4B7C-8DAD-9F72F96CD7DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{19048C9A-E1FF-454F-AD3A-737CA0988AF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", "{19048C9A-E1FF-454F-AD3A-737CA0988AF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{77AFF7AC-1591-4758-A1DD-1B95A03D130D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{77AFF7AC-1591-4758-A1DD-1B95A03D130D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecapDama", "WinFormsApp1\WinFormsApp1\RecapDama.csproj", "{2F7C33CA-3D3E-4EB1-883B-3EC93DF88536}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{77AFF7AC-1591-4758-A1DD-1B95A03D130D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77AFF7AC-1591-4758-A1DD-1B95A03D130D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77AFF7AC-1591-4758-A1DD-1B95A03D130D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F7C33CA-3D3E-4EB1-883B-3EC93DF88536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F7C33CA-3D3E-4EB1-883B-3EC93DF88536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F7C33CA-3D3E-4EB1-883B-3EC93DF88536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F7C33CA-3D3E-4EB1-883B-3EC93DF88536}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
