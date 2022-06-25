@@ -29,6 +29,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecapDama", "WinFormsApp1\WinFormsApp1\RecapDama.csproj", "{2F7C33CA-3D3E-4EB1-883B-3EC93DF88536}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5GunTekrarOOP2", "5GunTekrarOOP2\5GunTekrarOOP2.csproj", "{B0B5019F-163A-4442-95DC-05E75A9B459C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5GunTekrarOOP3", "5GunTekrarOOP3\5GunTekrarOOP3.csproj", "{420D545B-5838-45D0-8E5B-AB0B973C5640}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{2F7C33CA-3D3E-4EB1-883B-3EC93DF88536}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F7C33CA-3D3E-4EB1-883B-3EC93DF88536}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F7C33CA-3D3E-4EB1-883B-3EC93DF88536}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0B5019F-163A-4442-95DC-05E75A9B459C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B5019F-163A-4442-95DC-05E75A9B459C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0B5019F-163A-4442-95DC-05E75A9B459C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0B5019F-163A-4442-95DC-05E75A9B459C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{420D545B-5838-45D0-8E5B-AB0B973C5640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{420D545B-5838-45D0-8E5B-AB0B973C5640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{420D545B-5838-45D0-8E5B-AB0B973C5640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{420D545B-5838-45D0-8E5B-AB0B973C5640}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
