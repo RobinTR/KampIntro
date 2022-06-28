@@ -31,7 +31,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecapDama", "WinFormsApp1\W
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5GunTekrarOOP2", "5GunTekrarOOP2\5GunTekrarOOP2.csproj", "{B0B5019F-163A-4442-95DC-05E75A9B459C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5GunTekrarOOP3", "5GunTekrarOOP3\5GunTekrarOOP3.csproj", "{420D545B-5838-45D0-8E5B-AB0B973C5640}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5GunTekrarOOP3", "5GunTekrarOOP3\5GunTekrarOOP3.csproj", "{420D545B-5838-45D0-8E5B-AB0B973C5640}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceAbstractDemo", "InterfaceAbstractDemo\InterfaceAbstractDemo.csproj", "{C8322801-812E-4568-B226-D5AF2AB0D985}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gun5Odev", "Gun5Odev\Gun5Odev.csproj", "{40D48AF8-3163-4BEF-860C-349B2DE84208}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +103,14 @@ Global
 		{420D545B-5838-45D0-8E5B-AB0B973C5640}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{420D545B-5838-45D0-8E5B-AB0B973C5640}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{420D545B-5838-45D0-8E5B-AB0B973C5640}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8322801-812E-4568-B226-D5AF2AB0D985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8322801-812E-4568-B226-D5AF2AB0D985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8322801-812E-4568-B226-D5AF2AB0D985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8322801-812E-4568-B226-D5AF2AB0D985}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40D48AF8-3163-4BEF-860C-349B2DE84208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D48AF8-3163-4BEF-860C-349B2DE84208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D48AF8-3163-4BEF-860C-349B2DE84208}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D48AF8-3163-4BEF-860C-349B2DE84208}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
